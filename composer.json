@@ -20,7 +20,7 @@
             "url": "https://github.com/cyberfly/laragendb"
         }
     ],
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
             "Fathur\\Laragendb\\": "src/"
         }
